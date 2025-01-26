@@ -1,8 +1,8 @@
-## Applying Data Science Methodology to a Case Study: AI-Driven Medical Image Analysis
+# Applying Data Science Methodology to a Case Study: AI-Driven Medical Image Analysis
 
 Artificial Intelligence certainly can help doctors better understand high volumes of data, specially medical images, in a highly efficient way. By acting as a supportive diagnostic tool, it has the potencial to enhance precision and velocity in detecting diseases such as pneumonia. However, in many clinical cases, doctors still have to determina the exact reason why the model made each decision, so they can validate and trust the results. This need of trustworthiness is even greater in critical environments, such as hospitals, where diagnostic errors can have terrible consequences. With that being said, the problem question is: 
 
-Can we automatically identify pneumonia signals in medical X-ray images with high precision using machine learning techniques?
+**Can we automatically identify pneumonia signals in medical X-ray images with high precision using machine learning techniques?**
 
 <hr>
 
