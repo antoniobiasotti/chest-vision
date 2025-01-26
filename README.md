@@ -6,6 +6,8 @@ Artificial Intelligence certainly can help doctors better understand high volume
 
 <hr>
 
+## The Cross-Industry Standard Process for Data Mining Cycle (CRISP-DM)
+
 ![CRISP-DM Cycle](images/CRISP-DMCycle.png)
 
 The first step in the Data Science Methodology is to determine the Analytic Approach by basically answering the question: How can data be used to solve the problem? In our case, since we will probably be dealing with raw images, an unstructured type of data, we need a technique that can handle complex visual patterns, such as Convolutional Neural Networks (CNNs), to extract meaningful features. On top of that, we are also doing a binary classification, where the model has to predict a yes/no value for the target variable based on other characteristics observed in each X-ray image of the patient lungs.  While CNNs are highly effective at capturing complex visual patterns in raw images, Random Forests offer more interpretability and can be used with extracted features from a pre-trained CNN. This dual approach will ensure a robust solution for pneumonia detection in X-ray images.
