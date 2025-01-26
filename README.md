@@ -1,10 +1,49 @@
-# Applying Data Science Methodology to a Case Study: AI-Driven Medical Image Analysis
-
 Artificial Intelligence certainly can help doctors better understand high volumes of data, specially medical images, in a highly efficient way. By acting as a supportive diagnostic tool, it has the potencial to enhance precision and velocity in detecting diseases such as pneumonia. However, in many clinical cases, doctors still have to determina the exact reason why the model made each decision, so they can validate and trust the results. This need of trustworthiness is even greater in critical environments, such as hospitals, where diagnostic errors can have terrible consequences. With that being said, the problem question is: 
 
 **Can we automatically identify pneumonia signals in medical X-ray images with high precision using machine learning techniques?**
 
 <hr>
+
+<h1 align="center">
+  <img src="./logo.svg" height="300" width="300" alt="Logo Nome do Projeto" /><br>
+  Applying Data Science Methodology to a Case Study: AI-Driven Medical Image Analysis
+</h1>
+
+![GitHub License](https://img.shields.io/github/license/antoniobiasotti/chest-vision?labelColor=101010)
+
+Descrição curta e objetiva do projeto em uma linha.
+
+Descrição multi-linha, longa e detalhada do projeto, objetivo, razão de criação, problemas que resolve, etc.
+
+## Stack
+
+<!-- Linguagens -->
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+<!-- ML/AI -->
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+## Arquitetura
+
+Descrição sobre arquitetura escolhida, tanto de diretórios (monorepo, MVC, etc.) quanto de projeto (monolito, microsserviços, APIs, fluxo de comunicação, etc.), tudo conforme cabível dentro do escopo desejado.
+
+Exemplos com fluxogramas, mermaid e/ou imagens são sempre bem-vindos.
+
+## Execução
+
+Antes de iniciar com o desenvolvimento e os comandos, é importante definir as variáveis de ambiente no seu ambiente de desenvolvimento. Abaixo a listagem de quais definir:
+
+| Variável  | Tipo     | Necessidade            | Default | Descrição                  |
+| :-------- | :------- | :--------------------- | :------ | :------------------------- |
+| `EXAMPLE` | `string` | [Required \| Optional] | `Foo`   | Lorem ipsum dolor sit amet |
+
+## Licença
+This project is under [MIT - Massachusetts Institute of Technology](https://choosealicense.com/licenses/mit/). A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 ## The Cross-Industry Standard Process for Data Mining Cycle (CRISP-DM)
 
