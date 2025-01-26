@@ -6,6 +6,8 @@ Artificial Intelligence certainly can help doctors better understand high volume
 
 <hr>
 
+![CRISP-DM Cycle](images/CRISP-DMCycle.png)
+
 The first step in the Data Science Methodology is to determine the Analytic Approach by basically answering the question: How can data be used to solve the problem? In our case, since we will probably be dealing with raw images, an unstructured type of data, we need a technique that can handle complex visual patterns, such as Convolutional Neural Networks (CNNs), to extract meaningful features. On top of that, we are also doing a binary classification, where the model has to predict a yes/no value for the target variable based on other characteristics observed in each X-ray image of the patient lungs.  While CNNs are highly effective at capturing complex visual patterns in raw images, Random Forests offer more interpretability and can be used with extracted features from a pre-trained CNN. This dual approach will ensure a robust solution for pneumonia detection in X-ray images.
 
 Moving on to the Data Requirements, in this stage we have to define the criteria of the data for the approach that was selected, as well as the data content, formats and sources. In our case, we require a large dataset containing binary-labeled (normal or pneumonia) chest X-ray images. It's an absolute must that the images are clear and of sufficient quality, so that the model will not have trouble with that. One other criteria is the volume, thousands of images are needed to deep learning models like CNN, and the data diversity, the dataset should include images from different sources, to guarantee the model can generalize well.
