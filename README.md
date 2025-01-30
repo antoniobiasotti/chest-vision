@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./logo.svg" height="300" width="300" alt="Logo Nome do Projeto" /><br>
+  <!-- <img src="./logo.svg" height="300" width="300" alt="Logo Nome do Projeto" /><br> -->
   Applying Data Science Methodology to a Case Study: AI-Driven Medical Image Analysis
 </h1>
 
