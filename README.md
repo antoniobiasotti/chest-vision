@@ -1,6 +1,6 @@
 <h1 align="center">
   <!-- <img src="./logo.svg" height="300" width="300" alt="Logo Nome do Projeto" /><br> -->
-  Applying Data Science Methodology to a Case Study: AI-Driven Medical Image Analysis
+  Applying Data Science Methodology to a Case Study:<br> AI-Driven Medical Image Analysis
 </h1>
 
 ![GitHub License](https://img.shields.io/github/license/antoniobiasotti/chest-vision?labelColor=101010)
