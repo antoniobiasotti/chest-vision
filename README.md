@@ -8,13 +8,13 @@
 <p style="text-align: justify;">
 Artificial Intelligence certainly can help doctors better understand high volumes of data, specially medical images, in a highly efficient way. By acting as a supportive diagnostic tool, it has the potencial to enhance precision and velocity in detecting diseases such as pneumonia. However, in many clinical cases, doctors still have to determina the exact reason why the model made each decision, so they can validate and trust the results. This need of trustworthiness is even greater in critical environments, such as hospitals, where diagnostic errors can have terrible consequences. With that being said, the problem question is: 
 
-**Can we automatically identify pneumonia signals in medical X-ray images with high precision using machine learning techniques?**
+<h4>Can we automatically identify pneumonia signals in medical X-ray images with high precision using machine learning techniques?</h4>
 
 ## Stack
 
 <!-- Linguagens -->
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=FFD43B)
-
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)
 <!-- ML/AI -->
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -56,8 +56,8 @@ Finally Modeling and Evaluation. It's here where the magic happens - we train an
 <p style="text-align: justify;">
 Additionally, a confusion matrix displaying True Positives (TPR), False Negatives (FNR) False Positives (FPR) and True Negatives (TNR), is generated to visualize the model's predictions and identify any potential misclassifications. One last technique that can be applied is the LIME (Local Interpretable Model-agnostic Explanations) to interpret individual predictions. LIME highlights the regions of the X-ray images that most influenced the model's decision, providing transparency and increasing trust in the model's outputs.</p>
 
-After Modeling and Evaluation, if the test were all succesful, we can just hope for the stakeholder's positive feedback! :)
+After Modeling and Evaluation, if the test were all succesful, we can just hope for the stakeholder's positive feedback! 
 
-Thx for reading.
+Thx for reading :)
 
 ### Author: Antônio Biasotti
