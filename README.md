@@ -23,18 +23,8 @@ Artificial Intelligence certainly can help doctors better understand high volume
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## Execução
-
-Antes de iniciar com o desenvolvimento e os comandos, é importante definir as variáveis de ambiente no seu ambiente de desenvolvimento. Abaixo a listagem de quais definir:
-
-| Variável  | Tipo     | Necessidade            | Default | Descrição                  |
-| :-------- | :------- | :--------------------- | :------ | :------------------------- |
-| `EXAMPLE` | `string` | [Required \| Optional] | `Foo`   | Lorem ipsum dolor sit amet |
-
 ## Licença
 This project is under [MIT - Massachusetts Institute of Technology](https://choosealicense.com/licenses/mit/). A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-
-<hr>
 
 ## The Cross-Industry Standard Process for Data Mining Cycle (CRISP-DM)
 
